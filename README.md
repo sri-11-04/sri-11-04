@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Full Stack with Python as backend
 - 💞️ I’m looking to collaborate on https://www.instagram.com/_sri_11_04_/
 - 📫 How to reach me on insta - https://www.instagram.com/_sri_11_04_/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
 
 <!---
 sri-11-04/sri-11-04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
